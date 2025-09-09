@@ -81,3 +81,7 @@ npm run dev
 Welcome to the **MatDash Free Tailwind Next.js Admin Template** documentation! Whether you're just getting started or looking to explore advanced features, this guide will help you set up and customize your project with ease.
 
 👉 **[Click here to read the full documentation](https://adminmart.github.io/free-documentation/nextjs/matdash/index.html?ref=56)**
+
+
+## Deploy to Vercel
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/adminmart/v0-Matdash-nextjs-free-dashboard&root-directory=package)
