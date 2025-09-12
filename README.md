@@ -4,7 +4,7 @@
 
 Whether you're working on a **SaaS dashboard**, **admin panel**, or **internal tool**, MatDash provides a solid foundation with a well-structured codebase, reusable components, and responsive layouts out of the box.
 
-Fully open-source and production-ready, MatDash is free for both personal and commercial use — making it the perfect starting point for your next modern web project.
+Fully open-source and production-ready, MatDash is free for both personal and commercial use — making it the perfect starting point for your next modern web project. 
 
 
 ### 🔑 Key Features
