@@ -17,10 +17,10 @@ export function DashboardSidebar() {
     <div className="flex flex-col w-64 bg-sidebar border-r border-sidebar-border">
       <div className="flex items-center h-16 px-6 border-b border-sidebar-border">
         <div className="flex items-center gap-2">
-          <div className="w-8 h-8 flex items-center justify-center">
+          <div className="h-8 flex items-center justify-center">
             <img src="/logo-dark.svg" alt="MatDash Logo" className="h-8 w-auto" />
           </div>
-          <span className="text-xl font-bold text-sidebar-foreground">MatDash</span>
+          
         </div>
       </div>
 
